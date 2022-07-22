@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Training2\bin\Debug\Training2.exe.config
+C:\Users\User\source\repos\Training2\bin\Debug\Training2.exe
+C:\Users\User\source\repos\Training2\bin\Debug\Training2.pdb
+C:\Users\User\source\repos\Training2\obj\Debug\Training2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Training2\obj\Debug\Training2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Training2\obj\Debug\Training2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Training2\obj\Debug\Training2.exe
+C:\Users\User\source\repos\Training2\obj\Debug\Training2.pdb
